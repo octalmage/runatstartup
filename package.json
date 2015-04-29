@@ -1,0 +1,19 @@
+{
+  "name": "runatstartup",
+  "version": "0.0.1",
+  "description": "Run your app at startup.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/octalmage/runatstartup"
+  },
+  "keywords": [
+    "startup"
+  ],
+  "author": "Jason Stallings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octalmage/runatstartup/issues"
+  },
+  "homepage": "https://github.com/octalmage/runatstartup"
+}
